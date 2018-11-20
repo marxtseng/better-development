@@ -2,7 +2,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Better Development",
-  "homepage": "https://marxtseng.github.io/development/",
+  "homepage": "https://marxtseng.github.io/better-development/",
   "scripts": {
     "start": "mdx-deck deck.mdx",
     "build": "mdx-deck build deck.mdx",
